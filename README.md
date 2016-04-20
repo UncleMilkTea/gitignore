@@ -1,6 +1,9 @@
 # gitignore
 忽略文件
 
+## TODO
+
+- 使用时候要去掉前缀只要拓展名
 
 ## Author
 
